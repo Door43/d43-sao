@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sao:home|Door43 (sao)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sao|d43-sao repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sao/archive/master.zip|d43-sao.zip]]
+
+**Recent Changes**
+{{changes>ns = sao}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sao|Ethnologue data]]
+
